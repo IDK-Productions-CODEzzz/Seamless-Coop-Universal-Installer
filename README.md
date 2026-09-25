@@ -19,13 +19,10 @@ As a bonus feature, this BAT file can download the Seamless Coop mods for [DARK 
 - [ELDEN RING](https://store.steampowered.com/app/1245620/ELDEN_RING/)
 - [ELDEN RING NIGHTREIGN](https://store.steampowered.com/app/2622380/ELDEN_RING_NIGHTREIGN/)
 
-# Quirks
-- Must have no other mods in the same directory as the `Seamless-Coop-Universal-Installer.bat` file to download.
-
 # Computer Safety Disclaimer
 Never outright trust tools provided online, including those provided in this project. [VirusTotal](https://www.virustotal.com/gui/home/upload) is highly recommended as well as [Hybrid Analysis](https://hybrid-analysis.com) for scanning files before you ever run them.
 
-[VirusTotal Rating](https://www.virustotal.com/gui/file/c3fbc47f900f72109e9eaefe12024dbd9327037423c6e87946e69ba9e8a2bc64?nocache=1)
+[VirusTotal Rating](https://www.virustotal.com/gui/file-analysis/ZTVjMmNkZDg5Y2JmYmFmOTc2OTRiM2Y0NmI2MjhiNjE6MTc5MDM3OTQzOQ==)
 
 # AI Disclaimer
 I used AI tools to fully develop this BAT file. **Human review is still pending.**
